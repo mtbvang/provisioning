@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt-get install -yq  git curl
+apt-get install -yq  git curl python python3
 
 # Install heroku toolbelt
 wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
